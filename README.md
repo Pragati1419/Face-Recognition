@@ -38,5 +38,6 @@ Jarvis is just like a google assistant which takes command and open camera to re
   ### SpeechRecognition
   ````
   pip install SpeechRecognition
+  ``````
   
-  
+ 
